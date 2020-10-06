@@ -25,12 +25,8 @@ yo vscode-cmake-scaffold
 
 ## License
 
-MIT © [geckstroll]()
+MIT © [geckostroll]()
 
 
 [npm-image]: https://badge.fury.io/js/generator-vscode-cmake-scaffold.svg
 [npm-url]: https://npmjs.org/package/generator-vscode-cmake-scaffold
-[travis-image]: https://travis-ci.com/geckstroll/generator-vscode-cmake-scaffold.svg?branch=master
-[travis-url]: https://travis-ci.com/geckstroll/generator-vscode-cmake-scaffold
-[daviddm-image]: https://david-dm.org/geckstroll/generator-vscode-cmake-scaffold.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/geckstroll/generator-vscode-cmake-scaffold
