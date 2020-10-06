@@ -1,11 +1,11 @@
 {
   "name": "generator-vscode-cmake-scaffold",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A vscode cpp project scaffold,using cmake build tools",
   "homepage": "",
   "author": {
-    "name": "geckstroll",
-    "email": "compasty@gmail.com",
+    "name": "geckostroll",
+    "email": "geckostroll@outlook.com",
     "url": ""
   },
   "files": [
@@ -76,6 +76,6 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "geckstroll/generator-vscode-cmake-scaffold",
+  "repository": "geckostroll/generator-vscode-cmake-scaffold",
   "license": "MIT"
 }
